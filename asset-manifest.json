@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImageOverlayTextApp/static/css/main.9d96fd94.css",
+    "main.js": "/ImageOverlayTextApp/static/js/main.bd16c0fd.js",
+    "index.html": "/ImageOverlayTextApp/index.html",
+    "main.9d96fd94.css.map": "/ImageOverlayTextApp/static/css/main.9d96fd94.css.map",
+    "main.bd16c0fd.js.map": "/ImageOverlayTextApp/static/js/main.bd16c0fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d96fd94.css",
+    "static/js/main.bd16c0fd.js"
+  ]
+}
