@@ -1,0 +1,79 @@
+.input-box{
+    position: absolute;
+    top:-60px;
+    left: 725px;
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    font-size: 15px;
+    font-family: Roboto;
+    text-align: center;
+    
+}
+.add-text-button{
+    width:100px;
+    height: 30px;
+    position: absolute;
+    top:-60px;
+    left: 880px;
+    background-color:chartreuse;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    color: white;
+    font-size: 15px;
+    font-family: Roboto;
+    text-align: center;
+
+}
+.text-box{
+    /* position: absolute;
+    top:400px;
+    left: 600px; */
+    color: white;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 600;
+    text-align: center;
+    width:100px;
+    height: 50px;
+    border: 2px dashed blue;
+    padding-top: 10px;
+    cursor: pointer;
+
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    height: 80vh;
+  }
+  
+  .resize-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .child-container {
+    position: relative;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+  }
+  
+  .child-container.border {
+    border: 2px dashed blue;
+  }
+  
+  .size-auto {
+    position: absolute;
+    top: 15px;
+    bottom: 15px;
+    right: 15px;
+    left: 15px;
+  }
+  
